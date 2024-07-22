@@ -105,5 +105,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or issues, please contact [Email]
+For any inquiries or issues, please contact Email: example@gmail.com
+
 
