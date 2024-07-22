@@ -1,4 +1,3 @@
-
 # MERN eCommerce App
 
 ## Table of Contents
